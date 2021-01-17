@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello and welcome to my github :3
+<img src="./particle.webp">
 
-<!--
-**Synkstar/Synkstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am the owner of Nasulex. ( A gaming community ) 
+Our steam group: https://steamcommunity.com/groups/nasulex <br>
+Discord: https://nasulex.net/discord<br>
+Website: https://nasulex.net ( Right now its just a little landing page. Maybe in the future I might think of turning it into a forums site. )
 
-Here are some ideas to get you started:
+Some of my interests:
+* Networking
+* Virtualization & containerization
+* Programming ( Network applications are cool ) 
+* Interacting with people and having fun. 
+* Hosting game servers. 
+* .....
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Future plan for this github:
+
+You can expect to see anything here that I think would benifit the open source community. This could be future projects involving stuff related to game servers etc. 
+
+As always thanks for reading! Have great day or night. 
