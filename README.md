@@ -1,7 +1,8 @@
 ### Hello and welcome to my github :3
 https://user-images.githubusercontent.com/73189162/117227327-3051a700-addc-11eb-9ebb-679469373d80.mp4
-https://media.tenor.co/videos/4436697604019e15c6d359b28ec98126/mp4
-https://media.tenor.co/videos/3faae01da59852caca62a263d0f65a8d/mp4
+![serbija](https://user-images.githubusercontent.com/73189162/117227544-ace48580-addc-11eb-9b86-9aecef930ed4.gif)
+![serb](https://user-images.githubusercontent.com/73189162/117227545-ae15b280-addc-11eb-832d-b267b5395f67.gif)
+
 
 ### I am the owner of Nasulex. ( A gaming community ) 
 Our steam group: https://steamcommunity.com/groups/nasulex <br>
