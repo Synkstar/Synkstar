@@ -1,5 +1,7 @@
 ### Hello and welcome to my github :3
-![caedog](./caedog.mp4)
+https://user-images.githubusercontent.com/73189162/117227327-3051a700-addc-11eb-9ebb-679469373d80.mp4
+
+
 
 ### I am the owner of Nasulex. ( A gaming community ) 
 Our steam group: https://steamcommunity.com/groups/nasulex <br>
