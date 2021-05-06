@@ -7,21 +7,23 @@ https://user-images.githubusercontent.com/73189162/117227581-c4237300-addc-11eb-
 ![serb](https://user-images.githubusercontent.com/73189162/117227545-ae15b280-addc-11eb-832d-b267b5395f67.gif)
 
 
-### I am the owner of Nasulex. ( A gaming community ) 
-Our steam group: https://steamcommunity.com/groups/nasulex <br>
-Discord: https://nasulex.net/discord<br>
-Website: https://nasulex.net ( Right now its just a little landing page. Maybe in the future I might think of turning it into a forums site. )
+### I am the carrier of a disease called Autism. ( Please stay away from me ) 
+Our steam group: https://steamcommunity.com/groups/LGBTG<br>
+Discord: https://discord.gg/bHFn5DEaqa<br>
+Website: https://encyclopediadramatica.wiki/index.php/Furfags
 
 Some of my interests:
-* Networking
-* Virtualization & containerization
-* Programming ( Network applications are cool ) 
-* Interacting with people and having fun. 
-* Hosting game servers. 
+* i LOOVE GMOD !  
+* jakkin off 2 fictiopnal characters that i know will never be real but i do it cuz im a depressed fuck
+* havin 0 bitches
+* Programming ( i get compile error ) 
+* ERPing with people and having gay sex in real life. 
+* Hosting CP.
+* jackin off 2 cp 
+* trying to take my neighbors dogs in the front yard but they always go inside when i try
+* jac kin off to beastiality in my shit staind diperz
 * .....
 
 ### Future plan for this github:
 
-You can expect to see anything here that I think would benifit the open source community. This could be future projects involving stuff related to game servers etc. 
-
-As always thanks for reading! Have great day or night. 
+da sex robot furry stl files are comin tomarrow pls wait (processin script included buy ur own serbos and cnc macine)
