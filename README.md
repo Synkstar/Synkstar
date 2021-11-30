@@ -1,10 +1,10 @@
 ### Hello and welcome to my github :3
 <img src="./particle.webp">
 
-### I am the owner of Nasulex. ( A gaming community ) 
+### I am the owner of Nasulex. ( A game server host and gaming community ) 
 Our steam group: https://steamcommunity.com/groups/nasulex <br>
 Discord: https://nasulex.net/discord<br>
-Website: https://nasulex.net ( Right now its just a little landing page. Maybe in the future I might think of turning it into a forums site. )
+Website: https://nasulex.net
 
 Some of my interests:
 * Networking
