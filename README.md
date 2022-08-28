@@ -5,8 +5,8 @@
 Discord: https://nasulex.net/discord<br>
 Website: https://nasulex.net
 
-### Up and coming things:
-Laid Back Gaming: https://steamcommunity.com/groups/lb_gamers a gaming community with the goal of being exactly like its name. We will be running our own anycast network for this gaming community as well. 
+### Other projects:
+Laid Back Gaming: https://steamcommunity.com/groups/lb_gamers a gaming community with the goal of being exactly like its name.
 
 Some of my interests:
 * Networking
