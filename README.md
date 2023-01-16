@@ -7,7 +7,7 @@ Website: https://nasulex.net
 
 ### I also run a gaming community called Laid Back Gaming:
 A gaming community with the goal of being exactly like its name.<br>
-Steam: https://steamcommunity.com/groups/lb_gamers<br>
+Steam group: https://steamcommunity.com/groups/lbgcomm<br>
 Discord: https://discord.gg/lbg<br>
 
 Some of my interests:
