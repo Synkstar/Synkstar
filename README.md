@@ -5,8 +5,10 @@
 Discord: https://nasulex.net/discord<br>
 Website: https://nasulex.net
 
-### Other projects:
-Laid Back Gaming: https://steamcommunity.com/groups/lb_gamers a gaming community with the goal of being exactly like its name.
+### I also run a gaming community called Laid Back Gaming:
+A gaming community with the goal of being exactly like its name.<br>
+Steam: https://steamcommunity.com/groups/lb_gamers<br>
+Discord: https://discord.gg/lbg<br>
 
 Some of my interests:
 * Networking
