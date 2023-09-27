@@ -10,7 +10,6 @@ Some of my interests:
 * Virtualization & containerization
 * Programming ( Network applications are cool ) 
 * Interacting with people and having fun. 
-* Hosting game servers. 
 * .....
 
 As always thanks for reading! Have great day or night. 
