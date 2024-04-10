@@ -3,7 +3,7 @@
 
 I'm Jeremy - A Computer Science student, Network Engineer, and Developer.
 
-[![My Skills]([![My Skills](https://skillicons.dev/icons?i=git,cpp,c,rust,python,lua,go,linux,arch,mysql,postgres,grafana,raspberrypi,nginx,figma,prometheus,docker)](https://skillicons.dev))
+[![My Skills]([![My Skills](https://skillicons.dev/icons?i=git,cpp,c,rust,python,lua,go,linux,arch,mysql,postgres,grafana,raspberrypi,nginx,figma,prometheus,docker)](https://skillicons.dev)
 
 ![Metrics](/github-metrics.svg)
 
