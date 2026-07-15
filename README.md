@@ -1,7 +1,7 @@
 ### Hello
 <img src="./particle.webp">
 
-I'm Jeremy - A Computer Science student, Network Engineer, and Developer.
+I'm Jeremy - A Computer Science graduate, Network Engineer, and Developer.
 
 [![My Skills](https://skillicons.dev/icons?i=git,cpp,c,rust,python,lua,go,linux,arch,mysql,postgres,grafana,raspberrypi,nginx,figma,prometheus,docker)](https://skillicons.dev)
 
